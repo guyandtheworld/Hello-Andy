@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListApp</string>
+
+    <string-array name="items">
+        <item>Porsche</item>
+        <item>Tesla</item>
+        <item>Corvette</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>200k</item>
+        <item>50k</item>
+        <item>100k</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Basically childhood dream</item>
+        <item>Latest fad</item>
+        <item>A fucking beast.</item>
+    </string-array>
+
+</resources>
